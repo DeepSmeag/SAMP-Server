@@ -1,0 +1,302 @@
+[18:37:00] [ERROR] error #1064 while executing query "SELECT * FROM 'users' WHERE 'Name' = 'LittleSmeagol' LIMIT 1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''users' WHERE 'Name' = 'LittleSmeagol' LIMIT 1' at line 1
+[18:38:25] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'mysqladmin' and database = 'playersdb'
+[18:38:38] [ERROR] error #1064 while executing query "SELECT * FROM 'users' WHERE 'Name' = 'LittleSmeagol' LIMIT 1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''users' WHERE 'Name' = 'LittleSmeagol' LIMIT 1' at line 1
+[20:48:50] [ERROR] error #1064 while executing query "SELECT * FROM 'users' WHERE 'Name' = 'LittleSmeagol' LIMIT 1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''users' WHERE 'Name' = 'LittleSmeagol' LIMIT 1' at line 1
+[20:54:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'mysqladmin'@'localhost' (using password: YES)'
+[20:54:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'mysqladmin'@'localhost' (using password: YES)'
+[20:54:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'mysqladmin'@'localhost' (using password: YES)'
+[20:54:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'mysqladmin'@'localhost' (using password: YES)'
+[20:56:49] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'mysqladmin' and database = 'playersdb'
+[20:57:38] [ERROR] error #1054 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Unknown column 'LittleSmeagol' in 'where clause'
+[21:50:33] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'mysqladmin' and database = 'playersdb'
+[21:50:33] [ERROR] error #1054 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Unknown column 'LittleSmeagol' in 'where clause'
+[23:30:51] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:30:51] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:30:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:30:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:33:50] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:33:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:33:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:33:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:39:39] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:39:43] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:39:44] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:39:44] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost' (0)'
+[23:42:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[23:42:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[23:42:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[23:42:58] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[00:37:19] [ERROR] error #1146 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Table 'playersdb.users' doesn't exist
+[00:40:30] [ERROR] error #1146 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Table 'playersdb.users' doesn't exist
+[00:42:05] [ERROR] error #1146 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Table 'playersdb.users' doesn't exist
+[00:59:55] [ERROR] error #1146 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Table 'playersdb.users' doesn't exist
+[01:02:09] [ERROR] error #1146 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Table 'playersdb.users' doesn't exist
+[01:04:35] [ERROR] error #1146 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Table 'playersdb.users' doesn't exist
+[01:05:13] [ERROR] error #1146 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Table 'playersdb.users' doesn't exist
+[01:06:04] [ERROR] error #1146 while executing query "SELECT * FROM `users` WHERE `Name` = `LittleSmeagol` LIMIT 1": Table 'playersdb.users' doesn't exist
+[01:16:32] [ERROR] error #1054 while executing query "SELECT * FROM `players_data` WHERE `Name` = `LittleSmeagol` LIMIT 1": Unknown column 'LittleSmeagol' in 'where clause'
+[01:26:41] [ERROR] error #1054 while executing query "SELECT * FROM `players_data` WHERE `Name` = `LittleSmeagol` LIMIT 1": Unknown column 'LittleSmeagol' in 'where clause'
+[01:29:52] [ERROR] error #1054 while executing query "SELECT * FROM `players_data` WHERE `Name` = `LittleSmeagol` LIMIT 1": Unknown column 'LittleSmeagol' in 'where clause'
+[01:30:34] [ERROR] error #1054 while executing query "SELECT * FROM `players_data` WHERE `Name` = `LittleSmeagol` LIMIT 1": Unknown column 'LittleSmeagol' in 'where clause'
+[01:51:33] [ERROR] error #1054 while executing query "SELECT * FROM players_data WHERE Name = LittleSmeagol": Unknown column 'LittleSmeagol' in 'where clause'
+[02:19:05] [ERROR] error #1054 while executing query "SELECT * FROM players_data WHERE Name = LittleSmeagol": Unknown column 'LittleSmeagol' in 'where clause'
+[02:23:27] [ERROR] error #1054 while executing query "INSERT INTO `players_data` (`Name`, `Password`) VALUES (`LittleSmeagol`, `3123asd`)": Unknown column 'LittleSmeagol' in 'field list'
+[02:23:33] [ERROR] error #1054 while executing query "UPDATE `players_data` SET `Email` = `Cosmin22awddae` WHERE `ID` = `0`": Unknown column '0' in 'where clause'
+[02:24:07] [ERROR] error #1054 while executing query "INSERT INTO `players_data` (`Name`, `Password`) VALUES (`LittleSmeagol`, `123412`)": Unknown column 'LittleSmeagol' in 'field list'
+[02:24:09] [ERROR] error #1054 while executing query "UPDATE `players_data` SET `Email` = `2312412awd` WHERE `ID` = `0`": Unknown column '0' in 'where clause'
+[04:08:21] [ERROR] cache_get_value_name_int: no active cache
+[04:08:21] [ERROR] cache_get_value_name: no active cache
+[04:08:21] [ERROR] cache_get_value_name: no active cache
+[04:09:17] [ERROR] cache_get_value_name_int: no active cache
+[04:09:17] [ERROR] cache_get_value_name: no active cache
+[04:09:17] [ERROR] cache_get_value_name: no active cache
+[13:56:39] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[13:56:41] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[13:56:43] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[13:56:45] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[14:05:17] [ERROR] cache_get_value_name_int: no active cache
+[14:05:17] [ERROR] cache_get_value_name: no active cache
+[14:05:17] [ERROR] cache_get_value_name: no active cache
+[14:14:42] [ERROR] cache_get_value_name_int: no active cache
+[14:14:42] [ERROR] cache_get_value_name: no active cache
+[14:14:42] [ERROR] cache_get_value_name: no active cache
+[14:20:19] [ERROR] cache_get_value_name_int: no active cache
+[14:20:19] [ERROR] cache_get_value_name: no active cache
+[14:20:19] [ERROR] cache_get_value_name: no active cache
+[14:21:26] [ERROR] cache_get_value_name_int: no active cache
+[14:21:26] [ERROR] cache_get_value_name: no active cache
+[14:21:26] [ERROR] cache_get_value_name: no active cache
+[14:22:04] [ERROR] cache_get_value_name_int: no active cache
+[14:22:04] [ERROR] cache_get_value_name: no active cache
+[14:22:04] [ERROR] cache_get_value_name: no active cache
+[14:24:35] [ERROR] cache_get_value_name_int: no active cache
+[14:24:35] [ERROR] cache_get_value_name: no active cache
+[14:24:35] [ERROR] cache_get_value_name: no active cache
+[14:30:47] [ERROR] cache_get_value_name_int: no active cache
+[14:30:47] [ERROR] cache_get_value_name: no active cache
+[14:30:47] [ERROR] cache_get_value_name: no active cache
+[14:36:16] [ERROR] cache_get_value_name_int: no active cache
+[14:36:16] [ERROR] cache_get_value_name: no active cache
+[14:36:16] [ERROR] cache_get_value_name: no active cache
+[14:37:35] [ERROR] cache_get_value_name_int: no active cache
+[14:37:35] [ERROR] cache_get_value_name: no active cache
+[14:37:35] [ERROR] cache_get_value_name: no active cache
+[14:40:04] [ERROR] cache_get_value_name_int: no active cache
+[14:40:04] [ERROR] cache_get_value_name: no active cache
+[14:40:04] [ERROR] cache_get_value_name: no active cache
+[14:45:20] [ERROR] cache_get_value_name_int: no active cache
+[14:45:20] [ERROR] cache_get_value_name: no active cache
+[14:45:20] [ERROR] cache_get_value_name: no active cache
+[14:51:14] [ERROR] cache_get_value_name_int: no active cache
+[14:51:14] [ERROR] cache_get_value_name: no active cache
+[14:51:14] [ERROR] cache_get_value_name: no active cache
+[14:52:13] [ERROR] cache_get_value_name_int: no active cache
+[14:52:13] [ERROR] cache_get_value_name: no active cache
+[14:52:13] [ERROR] cache_get_value_name: no active cache
+[14:53:00] [ERROR] cache_get_value_name_int: no active cache
+[14:53:00] [ERROR] cache_get_value_name: no active cache
+[14:53:00] [ERROR] cache_get_value_name: no active cache
+[14:53:47] [ERROR] cache_get_value_name_int: no active cache
+[14:53:47] [ERROR] cache_get_value_name: no active cache
+[14:53:47] [ERROR] cache_get_value_name: no active cache
+[15:01:42] [ERROR] cache_get_value_name_int: no active cache
+[15:01:42] [ERROR] cache_get_value_name: no active cache
+[15:01:42] [ERROR] cache_get_value_name: no active cache
+[15:02:21] [ERROR] cache_get_value_name_int: no active cache
+[15:02:21] [ERROR] cache_get_value_name: no active cache
+[15:02:21] [ERROR] cache_get_value_name: no active cache
+[15:03:08] [ERROR] cache_get_value_name_int: no active cache
+[15:03:08] [ERROR] cache_get_value_name: no active cache
+[15:03:08] [ERROR] cache_get_value_name: no active cache
+[15:05:41] [ERROR] cache_get_value_name_int: no active cache
+[15:05:41] [ERROR] cache_get_value_name: no active cache
+[15:05:41] [ERROR] cache_get_value_name: no active cache
+[15:13:13] [ERROR] cache_get_value_name_int: no active cache
+[15:13:13] [ERROR] cache_get_value_name: no active cache
+[15:13:13] [ERROR] cache_get_value_name: no active cache
+[15:13:13] [ERROR] cache_get_row_count: no active cache
+[15:14:19] [ERROR] cache_get_value_name_int: no active cache
+[15:14:19] [ERROR] cache_get_value_name: no active cache
+[15:14:19] [ERROR] cache_get_value_name: no active cache
+[15:14:19] [ERROR] cache_get_row_count: no active cache
+[15:15:14] [ERROR] cache_get_value_name_int: no active cache
+[15:15:14] [ERROR] cache_get_value_name: no active cache
+[15:15:14] [ERROR] cache_get_value_name: no active cache
+[15:15:14] [ERROR] cache_get_row_count: no active cache
+[15:16:13] [ERROR] cache_get_value_name_int: no active cache
+[15:16:13] [ERROR] cache_get_value_name: no active cache
+[15:16:13] [ERROR] cache_get_value_name: no active cache
+[15:17:12] [ERROR] cache_get_value_name_int: no active cache
+[15:17:12] [ERROR] cache_get_value_name: no active cache
+[15:17:12] [ERROR] cache_get_value_name: no active cache
+[15:19:49] [ERROR] cache_get_value_name_int: no active cache
+[15:19:49] [ERROR] cache_get_value_name: no active cache
+[15:19:49] [ERROR] cache_get_value_name: no active cache
+[15:24:36] [ERROR] cache_get_value_name_int: no active cache
+[15:24:36] [ERROR] cache_get_value_name: no active cache
+[15:24:36] [ERROR] cache_get_value_name: no active cache
+[15:25:13] [ERROR] cache_get_value_name_int: no active cache
+[15:25:13] [ERROR] cache_get_value_name: no active cache
+[15:25:13] [ERROR] cache_get_value_name: no active cache
+[15:26:12] [ERROR] cache_get_value_name_int: no active cache
+[15:26:12] [ERROR] cache_get_value_name: no active cache
+[15:26:12] [ERROR] cache_get_value_name: no active cache
+[16:43:57] [ERROR] cache_get_value_name_int: no active cache
+[16:43:57] [ERROR] cache_get_value_name: no active cache
+[16:43:57] [ERROR] cache_get_value_name: no active cache
+[16:55:06] [ERROR] mysql_tquery: callback error: callback "ResetPlayerData" does not exist
+[16:55:45] [ERROR] mysql_tquery: callback error: callback "ResetPlayerData" does not exist
+[16:57:18] [ERROR] mysql_tquery: callback error: callback "ResetPlayerData" does not exist
+[17:02:54] [ERROR] mysql_tquery: callback error: callback "ResetPlayerData" does not exist
+[17:03:30] [ERROR] mysql_tquery: callback error: callback "ResetPlayerData" does not exist
+[17:04:17] [ERROR] mysql_tquery: callback error: callback "ResetPlayerData" does not exist
+[17:09:11] [ERROR] cache_get_value_name_int: no active cache
+[17:09:11] [ERROR] cache_get_value_name: no active cache
+[17:09:11] [ERROR] cache_get_value_name: no active cache
+[17:55:24] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[17:55:24] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[17:55:32] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[17:55:32] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[17:55:34] [ERROR] cache_get_value_name_int: field 'ID' not found
+[17:55:34] [ERROR] cache_get_value_name: field 'Email' not found
+[17:58:55] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[17:58:55] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[17:59:06] [ERROR] cache_get_value_name_int: field 'ID' not found
+[17:59:06] [ERROR] cache_get_value_name: field 'Email' not found
+[18:01:36] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:01:36] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:01:41] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:01:41] [ERROR] cache_get_value_name: field 'Email' not found
+[18:03:26] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:03:26] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:03:29] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:03:29] [ERROR] cache_get_value_name: field 'Email' not found
+[18:05:08] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:05:08] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:05:48] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:05:48] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:09:07] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:09:07] [ERROR] cache_get_value_name: field 'Email' not found
+[18:09:32] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:09:32] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:09:35] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:09:35] [ERROR] cache_get_value_name: field 'Email' not found
+[18:10:38] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:10:38] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:10:41] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:10:41] [ERROR] cache_get_value_name: field 'Email' not found
+[18:11:57] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:11:57] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:11:59] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:11:59] [ERROR] cache_get_value_name: field 'Email' not found
+[18:12:52] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:12:52] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:12:55] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:12:55] [ERROR] cache_get_value_name: field 'Email' not found
+[18:13:21] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:13:21] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:13:23] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:13:23] [ERROR] cache_get_value_name: field 'Email' not found
+[18:14:03] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:14:03] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:14:06] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:14:06] [ERROR] cache_get_value_name: field 'Email' not found
+[18:14:31] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:14:31] [ERROR] cache_get_value_name: field 'Email' not found
+[18:15:01] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:15:01] [ERROR] cache_get_value_name: field 'Email' not found
+[18:56:31] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:56:31] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:56:41] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:56:41] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[18:56:43] [ERROR] cache_get_value_name_int: field 'ID' not found
+[18:56:43] [ERROR] cache_get_value_name: field 'Email' not found
+[19:00:36] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:00:36] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:00:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:00:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:00:51] [ERROR] cache_get_value_name_int: field 'ID' not found
+[19:00:51] [ERROR] cache_get_value_name: field 'Email' not found
+[19:02:46] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:02:46] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:03:11] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:03:11] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:03:14] [ERROR] cache_get_value_name_int: field 'ID' not found
+[19:03:14] [ERROR] cache_get_value_name: field 'Email' not found
+[19:04:16] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:04:16] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:04:19] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:04:19] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:04:24] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:04:24] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:04:58] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:04:58] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:05:01] [ERROR] cache_get_value_name_int: field 'ID' not found
+[19:05:01] [ERROR] cache_get_value_name: field 'Email' not found
+[19:06:33] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:06:33] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:06:39] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:06:39] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:06:41] [ERROR] cache_get_value_name_int: field 'ID' not found
+[19:06:41] [ERROR] cache_get_value_name: field 'Email' not found
+[19:07:44] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:07:44] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:07:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:07:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:07:51] [ERROR] cache_get_value_name_int: field 'ID' not found
+[19:07:51] [ERROR] cache_get_value_name: field 'Email' not found
+[19:08:13] [ERROR] error #2002 while executing query "UPDATE players_data SET SkinID = '250' WHERE Name = 'LittleSmeagol'": Can't connect to MySQL server on 'localhost' (10061)
+[19:09:33] [ERROR] cache_get_value_name_int: field 'ID' not found
+[19:09:33] [ERROR] cache_get_value_name: field 'Email' not found
+[19:10:17] [ERROR] cache_get_value_name_int: field 'ID' not found
+[19:10:17] [ERROR] cache_get_value_name: field 'Email' not found
+[13:54:39] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:54:39] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:54:39] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[14:00:29] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[14:00:29] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[14:00:29] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[15:45:36] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[15:45:36] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[15:45:36] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[15:46:52] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[15:46:52] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[15:46:55] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[15:46:55] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[15:46:58] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[15:46:58] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[16:47:30] [ERROR] cache_get_value_name: no active cache
+[16:47:33] [ERROR] cache_get_value_name: no active cache
+[16:47:37] [ERROR] cache_get_value_name: no active cache
+[01:07:57] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[01:07:59] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[01:08:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[01:08:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[01:09:13] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[01:09:13] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[01:09:13] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[01:09:13] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[01:19:26] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[01:19:26] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[01:19:26] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[01:19:26] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:12:48] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:12:48] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:12:48] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:12:48] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:18:08] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:18:08] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:18:08] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:18:08] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:22:40] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:22:40] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:22:40] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:22:40] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:25:23] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:25:23] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:25:23] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:25:23] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:27:33] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:27:33] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[13:27:33] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:27:33] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')

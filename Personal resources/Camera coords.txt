@@ -1,0 +1,5 @@
+SetPlayerCameraPos(playerid, 1239.1483, -2070.2927, 176.5665);
+SetPlayerCameraLookAt(playerid, 1239.9576, -2070.8875, 176.1115); //Aeroport LS viziune de sus dinspre oras afara
+
+SetPlayerCameraPos(playerid, 1338.1400, -2484.9341, 123.6392);
+SetPlayerCameraLookAt(playerid, 1338.7003, -2484.0986, 123.4541); //Aerport LS viziune de sus din afara spre oras 
